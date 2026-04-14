@@ -61,6 +61,8 @@ taller-ecomarket/
    python prompt_devoluciones.py --provider openai
    ```
 
-## Autor
-
-Estudiante — Curso de Inteligencia Artificial Generativa
+## Autores
+Estudiantes: 
+Álvaro José Cabrera Lozano
+Claudia Lorena Aragón
+— Curso de Inteligencia Artificial Generativa
